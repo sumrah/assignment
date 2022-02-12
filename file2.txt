@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hello 
 task 17--editing same line on both branches on same file on both branches
+=======
+adding task 17 
+>>>>>>> testing
